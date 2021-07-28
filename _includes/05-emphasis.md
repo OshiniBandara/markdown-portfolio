@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:heart:*I'm Oshini Bandara*:heart:
+_Undergraduate Student_
+
+**Sabaragamuwa University of SriLanka**
+:fire:__Faculty of Applied Sciences__:fire:
+
+_I'm from **Kelaniya** area_
