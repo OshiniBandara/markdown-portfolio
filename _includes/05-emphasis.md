@@ -1,7 +1,7 @@
-:heart:*I'm Oshini Bandara*:heart:
+:heart: *I'm Oshini Bandara* :heart:
 _Undergraduate Student_
 
 **Sabaragamuwa University of SriLanka**
-:fire:__Faculty of Applied Sciences__:fire:
+🔥 __Faculty of Applied Sciences__ 🔥
 
 _I'm from **Kelaniya** area_
